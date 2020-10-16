@@ -150,4 +150,13 @@ print(dq)
 dq.extendleft([10, 20, 30, 40])
 print(dq)
 
+"""
+    SORTING ALGORITHMS
+    Bubble Sort
+    Insertion Sort
+    Merge Sort
+    python's list.sort() and sorted(list) use timsort (an adaptive sorting algorithm that switches from
+    insertion sort to merge sort strategies)
+"""
+
 
